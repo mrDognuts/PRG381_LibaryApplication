@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Thu Aug 29 19:17:00 SAST 2024D001 : [0] The Apache Software Foundation - Apache Derby - 10.17.1.0 - (1913217), [1] a816c00e-0191-9f23-f95a-00001f0f5610, [2] C:\Users\walte\OneDrive - belgiumcampus.ac.za\STUDIES\3ThirdYear\PRG381 Programing\Exercises\Milestone2\LibraryManagementSystem\LibaryManagmentSystem, [3] jdk.internal.loader.ClassLoaders$AppClassLoader@3f99bd52, [4] file:/C:/Users/walte/OneDrive%20-%20belgiumcampus.ac.za/STUDIES/3ThirdYear/PRG381%20Programing/Exercises/Milestone2/LibraryManagementSystem/src/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=22.0.2+9-70
+user.dir=C:\Users\walte\OneDrive - belgiumcampus.ac.za\STUDIES\3ThirdYear\PRG381 Programing\Exercises\Milestone2\LibraryManagementSystem
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+C005 : [0] 
